@@ -1,16 +1,19 @@
-# my_todo
+# Flutter To-Do List
+This is a simple to-do list app built using Flutter. It allows users to add, edit, and mark tasks as complete.
 
-A new Flutter project.
+## Features:
 
-## Getting Started
+1. Add new tasks with titles and descriptions.
+2. Edit existing tasks.
+3. Mark tasks as completed.
+4. Persist data locally using shared preferences.
 
-This project is a starting point for a Flutter application.
+## Screenshots:
+![](<markdown assets/TODO.gif>)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Setup Instructions:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone this repository.
+2. Run ``` flutter pub get ``` to install dependencies.
+3. Run ```flutter run ``` to launch the app on your device or simulator.
