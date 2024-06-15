@@ -4,3 +4,4 @@ A collection of Flutter projects showcasing various functionalities and UI conce
 ## *List Of Projects:*
 1. [UI Components](/UI-Components/)
 2. [Todo App](/To-Do-List/my_todo/) 
+3. [Static E-Commerce App](/e_commerce_app/)
